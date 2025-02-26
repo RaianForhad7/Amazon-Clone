@@ -5,10 +5,7 @@ This is a simple Amazon Clone website created using only HTML and CSS. This proj
 ## Table of Contents
 
 - [Overview](#overview)
-- [Installation](#installation)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [License](#license)
+- [Installation](#installation) 
 
 ## Overview
 
@@ -18,6 +15,5 @@ The Amazon Clone is a static webpage that mimics the look and feel of the Amazon
 
 To get a local copy of this project up and running, follow these simple steps:
 
-1. **Clone the repository** to your local machine using Git:
-   ```bash
+1. **Clone the repository** to your local machine using Git:```bash
    
